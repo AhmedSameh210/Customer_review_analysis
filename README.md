@@ -12,12 +12,12 @@ The data used in this project is customer reviews data from an e-commerce websit
 *Removing stop words
 *Stemming the text data
 *Creating new columns for sentiment analysis
-#Analysis and Visualization
+# Analysis and Visualization
 The analysis and visualization of the customer reviews data is performed using Power BI.
 
 
-#Dashboard
+# Dashboard
 The dashboard created using Power BI is user-friendly and interactive. It allows the user to filter the data based on various parameters such as product category, rating, and date. The dashboard helps in identifying the most common issues faced by customers and the products that need improvement. It also helps in identifying the most popular products and the areas where the business is doing well.
 
-#Conclusion
+# Conclusion
 Customer review analysis is an important aspect of any business. It helps in identifying the areas where the business needs improvement and the areas where it is doing well. The use of Power BI makes the analysis and visualization of the data easy and efficient. The dashboard created as part of this project is a useful tool for decision-making based on customer feedback and reviews.
